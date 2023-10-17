@@ -1,0 +1,171 @@
+body {
+    background-image: url(https://marketplace.canva.com/EAEDjhPe2wM/1/0/1600w/canva-%D1%80%D0%B0%D0%B4%D1%83%D0%B3%D0%B0-%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BE%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D1%8B%D0%B9-%D0%B8-%D1%81%D0%B8%D0%BD%D0%B8%D0%B9-zoom-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%84%D0%BE%D0%BD-9z3hOYl4auA.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+}
+
+.a {
+    border-radius: 50px 50px 50px 50px;
+    background-color: aqua;
+    position: fixed;
+    width: 1500px;
+    height: 300px;
+    background-color: transparent;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+li {
+    color: #f1f5f4;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+li:hover {
+    border-radius: 30px 0px 30px 0px;
+    background-color: rgb(192, 120, 229);
+    box-shadow: 2px 2px 2px 2px;
+    border: #eb95d5;
+}
+
+.con-1 {
+    width: auto;
+    height: 700px;
+    background-color: transparent;
+}
+
+.con-2 {
+    width: auto;
+    height: 700px;
+    background-color: transparent;
+}
+
+.con-2 iframe {
+    border: 3px solid rgb(215, 118, 233);
+    border-radius: 30px;
+    box-shadow: 10px 0px 10px 0px rgb(222, 179, 179);
+}
+
+.con-3 {
+    width: auto;
+    height: 700px;
+    background-color: transparent;
+}
+
+.con-3 iframe {
+    border: 3px solid rgb(215, 118, 233);
+    border-radius: 30px;
+    box-shadow: 10px 0px 10px 0px rgb(222, 179, 179);
+}
+
+.audio-card {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+
+.audio-1 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://i1.sndcdn.com/artworks-QtARPf50HvQUnaIo-Ar63Cw-t500x500.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.audio-2 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://i.ytimg.com/vi/fXk5NP0rsf0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBEIKifqZ0zNE85QELpjFRERdS8zA);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.audio-3 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://klip-pesni.ru/wp-content/uploads/2021/08/mot-avgust-ehto-ty-tekst-i-klip-pesni.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.audio-4 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://sun9-80.userapi.com/4yHwSCo0w7pG3W6FXldK4V4TxT3SRM5fvgrwnQ/aerz0EYGukM.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.audio-5 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/4c/a7/ba/4ca7ba69-0f88-6ffd-ccff-2f11738454b0/source/1200x1200bb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.audio-6 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://muzkz.com/uploads/posts/2023-06/1686213126_ajgerim-jeshim-koz-monchogum.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.audio-7 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://static.qobuz.com/images/covers/wb/2l/r2mgwag7s2lwb_600.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.audio-8 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://i1.sndcdn.com/artworks-000601694398-33rhi2-t500x500.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+}
+
+.con-4 {
+    width: auto;
+    height: 700px;
+    background-color: transparent;
+}
+
+.con-4 iframe {
+    border: 3px solid rgb(215, 118, 233);
+    border-radius: 30px;
+    box-shadow: 10px 0px 10px 0px rgb(222, 179, 179);
+}
+
+.d {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: auto;
+    height: 250px;
+    border: 3px solid rgb(25, 69, 124);
+    border-radius: 40px;
+    background-color: transparent;
+    margin-bottom: 20px;
+}
